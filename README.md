@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil😁
+## Be welcome!!😁
 
  <div>
    <a href="https://github.com/wellarzin">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Me segue nas redes abaixo!
+  ### Connect with me!
  
 <div> 
   <a href="https://instagram.com/wellarbrn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
