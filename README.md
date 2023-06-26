@@ -1,4 +1,4 @@
-## Be welcome!!😁
+## Welcome!!
 
  <div>
    <a href="https://github.com/wellarzin">
